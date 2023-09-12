@@ -1,11 +1,5 @@
 # ant-build-hello-world
 
-Refernces:
-
-[1] https://github.com/Silverpop/sample-helloworld-ant
-
-[2] https://ant.apache.org/manual/tutorial-HelloWorldWithAnt.html
-
 >ant clean-build
 ```                              
 
@@ -43,3 +37,9 @@ run:
 BUILD SUCCESSFUL
 Total time: 0 seconds
 ```
+
+References:
+
+[1] https://github.com/Silverpop/sample-helloworld-ant
+
+[2] https://ant.apache.org/manual/tutorial-HelloWorldWithAnt.html
